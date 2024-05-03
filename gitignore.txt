@@ -1,0 +1,2 @@
+C:\Users\DELL\Gomycode python practical\chatbot_ds\.conda\Lib
+C:\Users\DELL\Gomycode python practical\chatbot_ds\.conda\Library
